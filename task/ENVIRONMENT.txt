@@ -1,0 +1,6 @@
+Windows native Python 3.12.8 is available as python. Standard-library sqlite3, csv, codecs and subprocess are available.
+Temporary files: use the workspace-local .runtime-tmp directory (TMP and TEMP are set by launcher).
+No external attachments or application accounts. No browser is needed.
+Only stop child processes started by this task, identified by recorded PID; never terminate processes by name.
+Prepared Python executable: D:/CC_Codex_FeedBack/runtimes/cc005-csv-python312/python.exe
+The launcher puts this runtime first on PATH.
