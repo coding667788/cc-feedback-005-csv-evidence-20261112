@@ -1,0 +1,8 @@
+{
+  "block_size": 65536,
+  "max_attempts": 3,
+  "work_root": "var/perf",
+  "evidence_rollover_bytes": 67108864,
+  "insert_batch_rows": 5000,
+  "quiet": true
+}

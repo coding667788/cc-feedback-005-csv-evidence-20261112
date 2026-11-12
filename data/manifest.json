@@ -1,0 +1,29 @@
+{
+  "manifest_id": "csv-batch-20261112",
+  "batch_label": "已知答案CSV批次",
+  "schema_version": 1,
+  "generator_version": "1.0.0",
+  "total_rows": 200000,
+  "files": [
+    {
+      "file_id": "users_utf8bom",
+      "path": "users_utf8bom_v1.csv",
+      "encoding": "utf-8-sig",
+      "version": "1.0.0",
+      "sha256": "8e3ae90142ddca23afdac19d2fc946f462db55ad9161192399b3b63220c15bcc",
+      "size_bytes": 14145299,
+      "expected_rows": 120000,
+      "expected_columns": 8
+    },
+    {
+      "file_id": "users_gb18030",
+      "path": "users_gb18030_v1.csv",
+      "encoding": "gb18030",
+      "version": "1.0.0",
+      "sha256": "a6987c1231a062be60b54f9c9b835f40716a169d8384671e6d693dff0df7cc9e",
+      "size_bytes": 8079908,
+      "expected_rows": 80000,
+      "expected_columns": 8
+    }
+  ]
+}

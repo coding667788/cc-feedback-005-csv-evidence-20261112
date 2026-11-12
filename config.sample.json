@@ -1,0 +1,8 @@
+{
+  "block_size": 65536,
+  "max_attempts": 3,
+  "work_root": "var/collector",
+  "evidence_rollover_bytes": 67108864,
+  "insert_batch_rows": 2000,
+  "quiet": false
+}

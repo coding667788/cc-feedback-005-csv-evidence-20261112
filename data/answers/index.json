@@ -1,0 +1,4 @@
+{
+  "users_utf8bom": "answers/users_utf8bom.jsonl.gz",
+  "users_gb18030": "answers/users_gb18030.jsonl.gz"
+}
